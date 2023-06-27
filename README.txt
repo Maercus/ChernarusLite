@@ -19,7 +19,7 @@ DO NOT USE BOTH METHODS SIMULTANEOUSLY.
 If you followed the steps correctly, the map should now be installed.
 This mod and all its features are 100% free, developed by and for the community. CLAIMING AUTHORSHIP IS PROHIBITED. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Chernarus Lite es un projecto de mod desarrollado por Asmondian, MaercusTargaryen y el equipo de desarrollo del servidor "Dia Zero". Tanto sus mapeos como sus eventos dinámicos y archivos son de fuente abierta y cualquiera puede usarlos. Sin embargo, está prohibido atribuirse el crédito o autoría de cualquiera de estos.
 Este proyecto, intenta ofrecer una alternativa dinámica, novedosa y funcional a la inmensidad del mapa Chernarus, rescatando las virtudes de mapas más pequeños y complementándolo con elementos (vanilla) nuevos. En otras palabras, implica una versión reducida, dinámica y rediseñada de Chernarus, con nuevos y mejores puntos de interés, modificaciones de calidad de vida y ambientación post-apocalíptica.
