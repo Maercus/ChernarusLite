@@ -1,2 +1,0 @@
-# ChernarusLite
-DayZ map mod
